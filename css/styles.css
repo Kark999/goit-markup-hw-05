@@ -651,6 +651,7 @@ img {
 
 .modal-btn:hover,
 .modal-btn:focus {
+  fill: #ffffff;
   background-color: #404bbf;
   border: none;
 }
@@ -757,7 +758,7 @@ img {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 24px;
